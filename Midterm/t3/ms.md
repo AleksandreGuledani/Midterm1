@@ -1,11 +1,6 @@
 # Cinema Ticket Booking System
 
-**Masterclass in Java**  
-Paata Gogishvili  
-Doctor of Informatics, Associate Professor at Ilia State University  
-paatagog@gmail.com, paata.gogishvili@iliauni.edu.ge
 
----
 
 ## Description
 
